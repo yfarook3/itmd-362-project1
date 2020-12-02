@@ -7,5 +7,65 @@ h1, h2{
 	font-family: 'Lora', serif;
 	font-weight: bold;
 	color: yellow;
+	text-shadow: 2px 2px 4px #000000;
 }
+h1 {
+	font-size: 40px;
+	padding: 15px;
+}
+h2 {
+	font-size: 30px;
+}
+h3 {
+	font-size: 15px;
+	padding: 5px;
+	text-align: center;
+	font-family: 'Bitter', serif;
+	font-weight: bold;
+	color: black:
+}
+#champs{
+	text-align: center;
+	margin-left: 150px;
+	width: 25%;
+	height: 25%;
+	display: inline;
+	float: none;
+}
+form, #form2 {
+	padding: 5px;
+	text-align: center;
+	font-family: 'Bitter', serif;
+	font-weight: bold;
+	font-size: 15px;
+}
+#button {
+	font-family: 'Bitter', serif;
+}
+
+@media only screen and (max-width: 600px) {
+body {
+	background-color: #8A2BE2;
+}
+h1,h2 {
+	padding: 5px;
+	text-align: center;
+	font-family: 'Bitter', serif;
+	font-weight: bold;
+	color: yellow;
+	text-shadow: 2px 2px 4px #000000;
+}
+h1 {
+	font-size: 25px;
+	padding: 15px;
+}
+h2 {
+	font-size: 20px;
+}
+h3{
+	font-size: 15px;
+	padding: 5px;
+	te
+	
+	
 	
