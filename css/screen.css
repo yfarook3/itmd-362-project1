@@ -1,2 +1,11 @@
 body{
 	background-color: #8A2BE2
+}
+h1, h2{
+	padding: 3px;
+	text-align: center;
+	font-family: 'Lora', serif;
+	font-weight: bold;
+	color: yellow;
+}
+	
