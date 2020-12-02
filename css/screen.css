@@ -1,6 +1,14 @@
 body{
 	background-color: #8A2BE2
 }
+input{
+	display: inline-block;
+	width: 30%;
+	padding: 12px 15px;
+	margin: 10px;
+	border: solid #000000;
+	border-radius: 25px 25px 25px 25px;
+}
 h1, h2{
 	padding: 5px;
 	text-align: center;
